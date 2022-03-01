@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<festival>
+    <nombre>Festival de Madrid</nombre>
+    <fecha>16-03-2022</fecha>
+    <hora>16:00</hora>
+    <direccion>
+        <calle>Recoletos</calle>
+        <ciudad>Madrid</ciudad>
+        <numero>5</numero>
+    </direccion>
+    <conciertos>
+        <concierto>
+            <nombre>Concierto 1</nombre>
+            <hora>16:30</hora>
+            <grupo>
+                <nombre>Grupo 1</nombre>
+                <integrantes>
+                    <integrante>
+                        <nombre>Avril Lavigne</nombre>
+                        <edad>37</edad>
+                        <rol>Cantante</rol>
+                    </integrante>
+                    <integrante>
+                        <nombre>Evan Taubenfeld</nombre>
+                        <edad>38</edad>
+                        <rol>Bateria</rol>
+                    </integrante>
+                    <integrante>
+                        <nombre>Dan Ellis</nombre>
+                        <edad>38</edad>
+                        <rol>Guitarrista</rol>
+                    </integrante>
+                </integrantes>
+                <canciones>
+                    <cancion>
+                        <duracion>3:50</duracion>
+                        <nombre>Girlfriend</nombre>
+                    </cancion>
+                    <cancion>
+                        <duracion>2:43</duracion>
+                        <nombre>Bois Lies</nombre>
+                    </cancion>
+                    <cancion>
+                        <duracion>3:00</duracion>
+                        <nombre>Sk8er Boi</nombre>
+                    </cancion>
+                </canciones>
+            </grupo>
+        </concierto>
+        <concierto>
+            <nombre>Concierto 2</nombre>
+            <hora>18:30</hora>
+            <grupo>
+                <nombre>Grupo 2</nombre>
+                <integrantes>
+                    <integrante>
+                        <nombre>Lit Killah</nombre>
+                        <edad>22</edad>
+                        <rol>Cantante</rol>
+                    </integrante>
+                    <integrante>
+                        <nombre>Trueno</nombre>
+                        <edad>19</edad>
+                        <rol>Cantante</rol>
+                    </integrante>
+                    <integrante>
+                        <nombre>Nicky Nicole</nombre>
+                        <edad>21</edad>
+                        <rol>Cantante</rol>
+                    </integrante>
+                    <integrante>
+                        <nombre>Duki</nombre>
+                        <edad>23</edad>
+                        <rol>Cantante</rol>
+                    </integrante>
+                </integrantes>
+                <canciones>
+                    <cancion>
+                        <duracion>3:50</duracion>
+                        <nombre>Dance Crip</nombre>
+                    </cancion>
+                    <cancion>
+                        <duracion>2:43</duracion>
+                        <nombre>Entre Nosotros</nombre>
+                    </cancion>
+                    <cancion>
+                        <duracion>3:00</duracion>
+                        <nombre>Mala Mia</nombre>
+                    </cancion>
+                </canciones>
+            </grupo>
+        </concierto>
+    </conciertos>
+</festival>
