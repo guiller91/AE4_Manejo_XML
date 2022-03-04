@@ -36,6 +36,7 @@ public class ObjectToXml {
 			Festival festival = new Festival();
 			festival = crearFestival(festival);
 			m.marshal(festival, new File("festival.xml"));
+			System.out.println("Archivo creado con exito");
 			
 		} catch (JAXBException e) {
 			e.printStackTrace();
